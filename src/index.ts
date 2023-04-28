@@ -1,1 +1,2 @@
-import "./basic-type"
+// import "./basic-type";
+import './object';

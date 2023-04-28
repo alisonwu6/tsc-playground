@@ -10,5 +10,6 @@
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "sourceMap": true,
+    "strictNullChecks": true, // To prevent null or undefined values from being assigned to properties in an object
   }
 }
