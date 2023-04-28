@@ -1,2 +1,3 @@
 // import "./basic-type";
-import './object';
+// import './object';
+import './any-unknown-as';
