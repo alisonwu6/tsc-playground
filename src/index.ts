@@ -5,4 +5,4 @@
 // import './enums'
 // import './function-generics'
 // import './rest-destructure'
-import './object-oriented'
+import './object-oriented/index'
