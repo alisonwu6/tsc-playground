@@ -1,13 +1,13 @@
 // custom type
-let num1: number
-let str1: string | boolean | number
-let str2: string | boolean | number
+let num11: number
+let str11: string | boolean | number
+let str22: string | boolean | number
 
 type LiveName = string | boolean | number
 
-let livename: LiveName
-let livename1: LiveName
-let livename2: LiveName
+let livename00: LiveName
+let livename11: LiveName
+let livename22: LiveName
 
 // object
 type OBJ = { name: string, age: number }

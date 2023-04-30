@@ -1,6 +1,6 @@
 console.log('object');
 
-let obj = {
+let obj0 = {
   name: 'WU',
   age: 31,
 };

@@ -4,12 +4,12 @@
  * Function overloading is a feature in Typescript that allows you to have 
  * multiple functions with the same name, but different parameters.
  */
-function getData(data: string) {
+// function getData(data: string) {
   // ...
-}
-function getData2(data: number) {
+// }
+// function getData2(data: number) {
   // ...
-}
+// }
 
 // overload
 type Info2 = {};
