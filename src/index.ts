@@ -2,4 +2,5 @@
 // import './object';
 // import './any-unknown-as';
 // import './union-never';
-import './enums'
+// import './enums'
+import './function-generics'
