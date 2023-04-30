@@ -3,4 +3,5 @@
 // import './any-unknown-as';
 // import './union-never';
 // import './enums'
-import './function-generics'
+// import './function-generics'
+import './rest-destructure'
