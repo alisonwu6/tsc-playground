@@ -7,4 +7,5 @@
 // import './rest-destructure'
 // import './object-oriented/index'
 // import './object-oriented/extends'
-import './object-oriented/class-modifiers'
+// import './object-oriented/class-modifiers'
+import './object-oriented/class-modifier-static'
