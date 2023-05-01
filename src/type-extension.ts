@@ -1,13 +1,13 @@
 // --[BEGIN] Type Extensions
-// type Animal = {
+// type Animal11 = {
 //   name: string;
 // };
 
-// type Dog = Animal & {
+// type Dog = Animal11 & {
 //   age: number;
 // };
 
-// type Cat = Animal;
+// type Cat = Animal11;
 
 // let dog: Dog = {
 //   name: '',
@@ -20,24 +20,24 @@
 // --[END] Type Extensions
 
 // --[BEGIN] Interface Extensions
-// interface Animal {
+// interface Animal11 {
 //   name: string;
 // }
 
-// interface Dog extends Animal {}
+// interface Dog extends Animal11 {}
 // let dog: Dog = { name: '' };
 // --[END] Interface Extensions
 
 
 // --[BEGIN] Merge Interfaces (Note: `type` is not allowed)
-interface Animal {
+interface Animal11 {
   name: string;
 }
 
 // merged by using the same name
-interface Animal { 
+interface Animal11 { 
   age: number;
 }
 
-let dog: Animal = { name: '', age: 0 };
+let dog: Animal11 = { name: '', age: 0 };
 // --[END] Merge Interfaces
