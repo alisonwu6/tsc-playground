@@ -6,4 +6,5 @@
 // import './function-generics'
 // import './rest-destructure'
 // import './object-oriented/index'
-import './object-oriented/extends'
+// import './object-oriented/extends'
+import './object-oriented/class-modifiers'
