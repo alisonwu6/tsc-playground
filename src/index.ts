@@ -9,4 +9,5 @@
 // import './object-oriented/extends'
 // import './object-oriented/class-modifiers'
 // import './object-oriented/class-modifier-static'
-import './this'
+// import './this'
+import './generics/index';
