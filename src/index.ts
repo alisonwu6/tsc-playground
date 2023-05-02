@@ -11,4 +11,5 @@
 // import './object-oriented/class-modifier-static'
 // import './this'
 // import './generics/index';
-import './generics/extends';
+// import './generics/extends';
+import './generics/infer';
