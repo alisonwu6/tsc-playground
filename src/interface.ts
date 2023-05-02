@@ -1,11 +1,11 @@
 // interface
 
-interface UserCard {
+interface UserCard00 {
   name: string;
   desc: string;
 }
 
-const userCard: UserCard = {
+const userCard: UserCard00 = {
   name: '',
   desc: '',
 };
