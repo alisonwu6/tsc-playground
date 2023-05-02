@@ -30,3 +30,6 @@
 // console.log(name, age, nationality);
 // const userName = '';
 // --[END]
+
+// import '../src/utils/parsing'
+import '@/utils/parsing';

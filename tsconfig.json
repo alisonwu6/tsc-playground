@@ -12,6 +12,12 @@
     "jsx": "react",
     "allowJs": true,
     "sourceMap": true,
-    "strictNullChecks": true // To prevent null or undefined values from being assigned to properties in an object
+    "strictNullChecks": true, // To prevent null or undefined values from being assigned to properties in an object
+    // 8-4 -- [BEGIN] root path settings
+    "baseUrl": "./src",
+    "paths": {
+      "@/*": ["*"]
+    }
+    // 8-4 -- [END]
   }
 }
