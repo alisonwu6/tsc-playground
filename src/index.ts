@@ -12,4 +12,5 @@
 // import './this'
 // import './generics/index';
 // import './generics/extends';
-import './generics/infer';
+// import './generics/infer';
+import './generics/keyof';
